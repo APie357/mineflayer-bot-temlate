@@ -12,7 +12,7 @@
     "mineflayer": "^3.11.0",
     "mineflayer-pathfinder": "^1.7.0",
     "mineflayer-pvp": "^1.0.2",
-    "mineflayer-pathfinder": "^1.7.0"
+    "mineflayer-pathfinder": "^1.7.0",
   },
   "devDependencies": {},
   "description": "A template for Mineflayer Bots"
