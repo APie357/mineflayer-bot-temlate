@@ -1,0 +1,17 @@
+{
+  "name": "mineflayer-bot-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "minecraft-data": "^2.93.0",
+    "mineflayer": "^3.11.0",
+    "mineflayer-pathfinder": "^1.7.0"
+  },
+  "devDependencies": {},
+  "description": "A template for Mineflayer Bots"
+}
