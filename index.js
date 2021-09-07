@@ -10,9 +10,11 @@ const GoalBlock = goals.GoalBlock
 
 const bot = mineflayer.createBot({
     host: process.argv[2] || 'localhost',
-    port: process.argv[3],
-    username: process.argv[4] || 'BOT',
-    password: process.argv[5],
+    port: process.argv[3] || 25565,
+    version: process.argv[4] || false,
+    username: process.argv[5] || 'BOT',
+    password: process.argv[6],
+    auth: process.argv[7] || 'mojang'
     logErrors: false
 })
 
