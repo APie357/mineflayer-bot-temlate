@@ -1,4 +1,5 @@
 # Viusl Studio Code Settings
 .vscode/
-# Dependency directory
+# Dependencies
 node_modules/
+package-lock.json
